@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "task": "Aprender el alfabeto francés",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "task": "Aprender los números del 1 al 10 en francés",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "task": "Aprender los colores en francés",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "task": "Aprender los días de la semana en francés",
+      "completed": false
+    },
+    {
+      "id": 5,
+      "task": "Aprender los meses del año en francés",
+      "completed": false
+    },
+    {
+      "id": 6,
+      "task": "Aprender los pronombres personales en francés",
+      "completed": false
+    },
+    {
+      "id": 7,
+      "task": "Aprender los verbos ser y estar en francés",
+      "completed": false
+    },
+    {
+      "id": 8,
+      "task": "Aprender los verbos regulares e irregulares en francés",
+      "completed": false
+    },
+    {
+      "id": 9,
+      "task": "Aprender los tiempos verbales en francés",
+      "completed": false
+    },
+    {
+      "id": 10,
+      "task": "Aprender el vocabulario básico en francés",
+      "completed": false
+    }
+  ]
+  
